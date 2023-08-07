@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
-
 <div style="text-align: right">
 </div>
 
