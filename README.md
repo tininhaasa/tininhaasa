@@ -4,7 +4,7 @@
 
 # Olá, guerreiros! <img src="https://raw.githubusercontent.com/tininhaasa/tininhaasa/assets/coroa.png" width="50px" height="50px" />
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
 
 ## 🔧 Técnologias & Ferramentas
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
