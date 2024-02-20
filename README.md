@@ -28,18 +28,18 @@
 ![](https://img.shields.io/badge/Windows-ACER--0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## &#x270d; Projetos Mais Recentes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tininhaasa&repo=plusplus)](https://github.com/tininhaasa/plusplus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tininhaasa&repo=G-and-C_RPG-backend)](https://github.com/tininhaasa/G-and-C_RPG-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tininhaasa&repo=LaravelStore)](https://github.com/tininhaasa/LaravelStore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tininhaasa&repo=roletaEnganadora)](https://github.com/tininhaasa/roletaEnganadora)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tininhaasa&repo=plusplus&theme=transparent)](https://github.com/tininhaasa/plusplus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tininhaasa&repo=G-and-C_RPG-backend&theme=transparent)](https://github.com/tininhaasa/G-and-C_RPG-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tininhaasa&repo=LaravelStore&theme=transparent)](https://github.com/tininhaasa/LaravelStore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tininhaasa&repo=roletaEnganadora&theme=transparent)](https://github.com/tininhaasa/roletaEnganadora)
 
 ## &#x1f4c8; Estatisticas do GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tininhaasa" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tininhaasa&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tininhaasa&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tininhaasa&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 <!-- <a href="https://github.com/tininhaasa/python-project-blueprint">
