@@ -35,10 +35,11 @@
 
 ## &#x1f4c8; Estatisticas do GitHub
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tininhaasa&hide_progress=true)](https://github.com/tininhaasa/)
-
-<a href="https://github.com/tininhaasa/tininhaasa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tininhaasa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Cristina GitHub Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tininhaasa" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tininhaasa&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!-- <a href="https://github.com/tininhaasa/python-project-blueprint">
